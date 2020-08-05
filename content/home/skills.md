@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-microsoft"
+  icon = "microsoft"
   icon_pack = "fab"
   name = ".NET"
   description = "100%"
   
 [[feature]]
-  icon = "fa-angular"
+  icon = "angular"
   icon_pack = "fab"
   name = "Angular"
   description = "100%"  
