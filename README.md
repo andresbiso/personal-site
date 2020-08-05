@@ -9,8 +9,8 @@
 
 <div align="center">
 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/010453be-e948-44b8-a0e3-9d6ee727e7a8/deploy-status)](https://app.netlify.com/sites/andresbiso/deploys)
-  [![License](https://img.shields.io/github/license/andresbiso/academic-kickstart)](/LICENSE)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/bce31b72-b5f1-4f2e-9c65-e7c2acdabeda/deploy-status)](https://app.netlify.com/sites/andresbiso/deploys)
+  [![License](https://img.shields.io/github/license/andresbiso/personal-site)](/LICENSE)
 
 </div>
 
