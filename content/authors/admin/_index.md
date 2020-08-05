@@ -1,7 +1,7 @@
 ---
 title: Andrés Biso
 role: Full-Stack Developer from CABA, Argentina
-avatar_filename: profile_picture.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Working at Hexacta
     url: ""
@@ -32,7 +32,7 @@ education:
   courses:
     - course: Information Systems Engineering Student
       institution: UTN FRBA
-email: biso.andres@gmail.com
+email: ""
 user_groups:
   - Developers
   - Visitors
