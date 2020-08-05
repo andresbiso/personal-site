@@ -31,14 +31,23 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+  
+[[experience]]
+  title = "Technician"
+  company = "Randstad"
+  company_url = "https://www.randstad.com/"
+  location = "CABA, Argentina"
+  date_start = "2015-06-01"
+  date_end = "2015-07-01"
+  description = """Technician in charge of the e-voting machines during the main elections in CABA, Argentina."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Technician"
+  company = "Cider S.A."
+  company_url = "https://www.cidersa.com.ar/"
+  location = "CABA, Argentina"
+  date_start = "2015-04-01"
+  date_end = "2015-04-31"
+  description = """Technician in charge of the e-voting machines during the PASO in CABA, Argentina."""
 
 +++
