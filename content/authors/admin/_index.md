@@ -1,11 +1,12 @@
 ---
 title: Andrés Biso
-role: Full-Stack Developer at @hexacta | Information Systems Engineering student
-  at @frbautn
-avatar_filename: 60934239_10216644213630874_8642715874597273600_n.jpg
+role: ""
+avatar_filename: profile_picture.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Hexacta
+    url: https://www.hexacta.com/
+  - name: UTN FRBA
+    url: https://www.frba.utn.edu.ar/
 superuser: true
 authors:
   - admin
@@ -14,36 +15,28 @@ interests:
   - Linux
   - .NET
   - Angular
-  - FOSS
-  - GNU
-  - MacOS
-  - Windows
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/andres_biso
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/andresbiso
+  - link: https://www.linkedin.com/in/andresbiso/
+    icon_pack: fab
+    icon: linkedin
 education:
-  courses: []
+  courses:
+    - course: Information Systems Engineering Student
+      institution: UTN FRBA
 email: ""
 user_groups:
   - Developers
   - Visitors
 ---
+Andrés Biso has been working as a Full-Stack developer at [Hexacta](https://www.hexacta.com/) for the last couple of years. He is still studying the Information Systems Engineering at [UTN FRBA](https://www.frba.utn.edu.ar/). He is very passionate about programming. He likes learning new ways of doing things and new programming languages.
 
-
-## Hello, I'm Andrés Biso! Welcome to my site!
-
-### [](https://github.com/andresbiso/#about-me)About Me
-
-* I'm a Full-Stack Developer at Hexacta.
-* I've been working with the .NET and Angular frameworks for a couple of years now.
-* I'm currently working on improving my skills as a developer and I'm eager to contribute to open source projects.
+During his time off you will usually find him listening to music and scrolling Reddit.
