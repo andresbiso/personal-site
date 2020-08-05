@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company_url = "https://www.cidersa.com.ar/"
   location = "CABA, Argentina"
   date_start = "2015-04-01"
-  date_end = "2015-04-31"
+  date_end = "2015-04-01"
   description = """Technician in charge of the e-voting machines during the PASO in CABA, Argentina."""
 
 +++
