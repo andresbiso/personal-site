@@ -32,7 +32,7 @@ education:
   courses:
     - course: Information Systems Engineering Student
       institution: UTN FRBA
-email: ""
+email: biso.andres@gmail.com
 user_groups:
   - Developers
   - Visitors
