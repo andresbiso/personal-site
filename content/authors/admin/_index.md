@@ -1,12 +1,12 @@
 ---
 title: Andrés Biso
-role: ""
+role: Full-Stack Developer from CABA, Argentina
 avatar_filename: profile_picture.jpg
 organizations:
-  - name: Hexacta
-    url: https://www.hexacta.com/
-  - name: UTN FRBA
-    url: https://www.frba.utn.edu.ar/
+  - name: Working at Hexacta
+    url: ""
+  - name: Studying at UTN FRBA
+    url: ""
 superuser: true
 authors:
   - admin
