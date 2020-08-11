@@ -28,6 +28,9 @@ social:
   - link: https://www.linkedin.com/in/andresbiso/
     icon_pack: fab
     icon: linkedin
+  - icon: goodreads
+    icon_pack: fab
+    link: https://www.goodreads.com/andresbiso
 education:
   courses:
     - course: Information Systems Engineering Student
