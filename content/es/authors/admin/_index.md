@@ -1,20 +1,20 @@
 ---
 title: Andrés Biso
-role: Full-Stack Developer from CABA, Argentina
+role: Full-Stack Developer de Ciudad Autónoma de Buenos Aires, Argentina
 avatar_filename: avatar.jpg
 organizations:
-  - name: Working at Hexacta
+  - name: Trabajo en Hexacta
     url: https://www.hexacta.com/
-  - name: Studying at UTN FRBA
+  - name: Estudio en la UTN FRBA
     url: https://www.frba.utn.edu.ar/
 superuser: true
 authors:
   - admin
-bio: A Full-Stack Developer interested in improving his programming skills.
+bio: Soy un Full-Stack Developer interesado en mejorar sus habilidades en programación.
 interests:
-  - Linux
-  - .NET
-  - Angular
+  - Reddit.
+  - Escuchar música.
+  - Mirar películas y series.
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,15 +33,15 @@ social:
     link: https://www.goodreads.com/andresbiso
 education:
   courses:
-    - course: Information Systems Engineering Student (In Progress)
+    - course: Estudiante de Ingeniería en Sistemas de Información
       institution: UTN FRBA
 email: ""
 user_groups:
   - Developers
 ---
-🎓 Since I was a kid I have always been interested in computers. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career later on and that led me on becoming a software developer.\
-\
-📊 During my time as a developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I demonstrated strong abilities programming in Angular and .NET. I was also able to improve my communication skills in english being nowadays able of explaining technical issues to non-technical audiences in that language.
+🎓 Desde que era pequeño siempre estuve interesado en la computadoras. Mi pasión por la programación comenzó cuando encontré un programa que permitía crear tus propios videojuegos. Esa experiencia generó la chispa que me hizo elegir la orientación en Informática y Medios Digitales durante el secundario. Luego de eso me anoté a cursar la carrera de Ingeniería en Sistemas de Información y eso me llevó a ser un desarrollador de software.
+
+📊 En mis años como desarrollador de software, he trabajado en una gran cantidad de proyectos para distintas compañías. Lo que me gusta de ser desarrollador es que es desafiante y a la vez divertido. De haber trabajado en estos proyectos, he demostrado que tengo una base sólida en Angular y .NET. También pude mejorar mis habilidades de comunicación en inglés y ahora soy capaz de explicar problemas técnicos a audiencias no técnicas en ese idioma. 
 
 
 
@@ -79,6 +79,6 @@ height: 100%;
 
 <div class="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wz8zCM9fIDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v8l0_ZekrRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>

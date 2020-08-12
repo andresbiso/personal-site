@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Experiencia"
 subtitle = ""
 
 # Date format for experience
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """"""
   
 [[experience]]
-  title = "E-Voting Machines Technician"
+  title = "Técnico de las máquinas de votación electrónica"
   company = "Randstad"
   company_url = "https://www.randstad.com/"
   location = "CABA, Argentina"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "E-Voting Machines Technician"
+  title = "Técnico de las máquinas de votación electrónica"
   company = "Cider S.A."
   company_url = "https://www.cidersa.com.ar/"
   location = "CABA, Argentina"

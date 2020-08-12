@@ -1,6 +1,6 @@
 ---
 title: Andrés Biso
-role: Full-Stack Developer from CABA, Argentina
+role: Full-Stack Developer from Buenos Aires City, Argentina
 avatar_filename: avatar.jpg
 organizations:
   - name: Working at Hexacta
@@ -12,9 +12,9 @@ authors:
   - admin
 bio: A Full-Stack Developer interested in improving his programming skills.
 interests:
-  - Linux
-  - .NET
-  - Angular
+  - Reddit.
+  - Listening to music.
+  - Watching movies and series.
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,7 +33,7 @@ social:
     link: https://www.goodreads.com/andresbiso
 education:
   courses:
-    - course: Information Systems Engineering Student (In Progress)
+    - course: Information Systems Engineering Student
       institution: UTN FRBA
 email: ""
 user_groups:

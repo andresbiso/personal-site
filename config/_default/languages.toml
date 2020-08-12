@@ -6,7 +6,7 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"
-  title = "Welcome to my site!"
+  title = "Andrés Biso"
   [en.params]
     description = "Andrés Biso Personal Site"
 
@@ -14,7 +14,7 @@
 [es]
   languageCode = "en-us"
   contentDir = "content/es"
-  title = "Bienvenidos a mi página!"
+  title = "Andrés Biso"
   [es.params]
     description = "Página Personal de Andrés Biso"
 
