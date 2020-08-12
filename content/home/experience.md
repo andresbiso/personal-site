@@ -24,32 +24,24 @@ date_format = "Jan 2006"
   location = "CABA, Argentina"
   date_start = "2015-08-03"
   date_end = ""
-  description = """
-  I've worked mostly with the .NET and Angular frameworks.
-  Among the clients I have worked for I can mention:
-  * PMI Argentina
-  * UADE
-  * AmericanEagle - Web Design & Development
-  * Dwellworks (throught AmericanEagle)
-  * EatonVance
-  """
+  description = """"""
   
 [[experience]]
-  title = "Technician"
+  title = "E-Voting Machines Technician"
   company = "Randstad"
   company_url = "https://www.randstad.com/"
   location = "CABA, Argentina"
   date_start = "2015-06-01"
   date_end = "2015-07-01"
-  description = """Technician in charge of the e-voting machines during the main elections in CABA, Argentina."""
+  description = """"""
 
 [[experience]]
-  title = "Technician"
+  title = "E-Voting Machines Technician"
   company = "Cider S.A."
   company_url = "https://www.cidersa.com.ar/"
   location = "CABA, Argentina"
   date_start = "2015-04-01"
   date_end = "2015-04-01"
-  description = """Technician in charge of the e-voting machines during the PASO in CABA, Argentina."""
+  description = """"""
 
 +++
