@@ -33,17 +33,14 @@ social:
     link: https://www.goodreads.com/andresbiso
 education:
   courses:
-    - course: Information Systems Engineering Student
+    - course: Information Systems Engineering Student (In Progress)
       institution: UTN FRBA
 email: ""
 user_groups:
   - Developers
-  - Visitors
 ---
-Andrés Biso has been working as a Full-Stack developer at [Hexacta](https://www.hexacta.com/) for the last couple of years. He is still studying the Information Systems Engineering at [UTN FRBA](https://www.frba.utn.edu.ar/). He is very passionate about programming. He likes learning new ways of doing things and new programming languages.
-
-During his time off you will usually find him listening to music and scrolling Reddit.
-
-
+🎓 Since I was little and have always been interested in computers. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career later on and that led me on becoming a software developer.\
+\
+📊 During my time as a developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I demonstrated strong abilities programming in Angular and .NET as well as communicational skills in explaining technical issues to non-technical audiences in multidisciplinary teams.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wz8zCM9fIDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
