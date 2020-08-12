@@ -45,7 +45,7 @@ user_groups:
 
 
 
-<styles>
+<style>
 
 .video-container { 
 
@@ -75,7 +75,7 @@ height: 100%;
 
 }
 
-</styles>
+</style>
 
 <div class="video-container">
 
