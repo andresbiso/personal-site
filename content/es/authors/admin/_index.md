@@ -1,6 +1,6 @@
 ---
 title: Andrés Biso
-role: Full-Stack Developer de Ciudad Autónoma de Buenos Aires, Argentina
+role: Full-Stack Developer de la Ciudad Autónoma de Buenos Aires, Argentina
 avatar_filename: avatar.jpg
 organizations:
   - name: Trabajo en Hexacta
