@@ -39,7 +39,7 @@ email: ""
 user_groups:
   - Developers
 ---
-🎓 Since I was little and have always been interested in computers. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career later on and that led me on becoming a software developer.\
+🎓 Since I was little I have always been interested in computers. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career later on and that led me on becoming a software developer.\
 \
 📊 During my time as a developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I demonstrated strong abilities programming in Angular and .NET as well as communicational skills in explaining technical issues to non-technical audiences in multidisciplinary teams.
 
