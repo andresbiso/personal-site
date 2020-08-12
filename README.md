@@ -42,3 +42,4 @@ Personal website hosted on Netlify using Academic.
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Thanks [@gcushen](https://github.com/gcushen/) for hugo-academic.
 - Thanks [@zhiiiyang](https://github.com/zhiiiyang) for providing a good template from where to start this website.
+- Thanks [@kylelobo](https://github.com/kylelobo) for [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium).
