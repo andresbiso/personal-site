@@ -16,19 +16,19 @@ subtitle = ""
 
 [[feature]]
   icon = "microsoft"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = ".NET"
   description = "100%"
   
 [[feature]]
   icon = "angular"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = "Angular"
   description = "100%"
   
 [[feature]]
   icon = "readme"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = "English"
   description = "100%" 
 
