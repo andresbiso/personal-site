@@ -5,7 +5,18 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"
+  title = "Welcome to my site!"
+  [en.params]
+    description = "Andrés Biso Personal Site"
+
+# Configure the Spanish version of the site.
+[es]
+  languageCode = "en-us"
+  contentDir = "content/es"
+  title = "Bienvenidos a mi página!"
+  [es.params]
+    description = "Página Personal de Andrés Biso"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
