@@ -43,4 +43,42 @@ user_groups:
 \
 📊 During my time as a developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I demonstrated strong abilities programming in Angular and .NET. I was also able to improve my communication skills in english being nowadays able of explaining technical issues to non-technical audiences in that language.
 
+
+
+<styles>
+
+.video-container { 
+
+position: relative; 
+
+padding-bottom: 56.25%; 
+
+padding-top: 30px; 
+
+height: 0; 
+
+overflow: hidden; 
+
+}
+
+.video-container iframe, .video-container object, .video-container embed { 
+
+position: absolute; 
+
+top: 0; 
+
+left: 0; 
+
+width: 100%; 
+
+height: 100%; 
+
+}
+
+</styles>
+
+<div class="video-container">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wz8zCM9fIDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
