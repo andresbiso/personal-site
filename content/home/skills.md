@@ -16,20 +16,20 @@ subtitle = ""
 
 [[feature]]
   icon = "microsoft"
-  icon_pack = "brand"
+  icon_pack = "brands"
   name = ".NET"
   description = "100%"
   
 [[feature]]
   icon = "angular"
-  icon_pack = "brand"
+  icon_pack = "brands"
   name = "Angular"
   description = "100%"
   
 [[feature]]
-  icon = "angular"
-  icon_pack = "brand"
-  name = "Angular"
+  icon = "readme"
+  icon_pack = "brands"
+  name = "English"
   description = "100%" 
 
 # Uncomment to use emoji icons.
