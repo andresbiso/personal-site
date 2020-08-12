@@ -4,9 +4,9 @@ role: Full-Stack Developer from CABA, Argentina
 avatar_filename: avatar.jpg
 organizations:
   - name: Working at Hexacta
-    url: ""
+    url: https://www.hexacta.com/
   - name: Studying at UTN FRBA
-    url: ""
+    url: https://www.frba.utn.edu.ar/
 superuser: true
 authors:
   - admin
