@@ -9,6 +9,7 @@
   title = "Andrés Biso"
   [en.params]
     description = "Andrés Biso - Personal Website"
+    copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "This site and its content is licensed under {license}"}
 
 # Configure the Spanish version of the site.
 [es]
@@ -17,6 +18,7 @@
   title = "Andrés Biso"
   [es.params]
     description = "Página Personal de Andrés Biso"
+    copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "Esta página y todo su contenido se encuentra bajo la licencia {license}"}
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
