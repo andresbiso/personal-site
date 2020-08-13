@@ -8,7 +8,7 @@
   contentDir = "content/en"
   title = "Andrés Biso"
   [en.params]
-    description = "Andrés Biso Personal Site"
+    description = "Andrés Biso - Personal Website"
 
 # Configure the Spanish version of the site.
 [es]
