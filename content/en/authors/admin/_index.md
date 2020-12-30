@@ -5,6 +5,8 @@ avatar_filename: avatar.jpg
 organizations:
   - name: Working at Hexacta
     url: https://www.hexacta.com/
+  - name: Studying at ORT Argentina
+    url: https://www.ort.edu.ar/
   - name: Studying at UTN FRBA
     url: https://www.frba.utn.edu.ar/
 superuser: true
@@ -33,6 +35,8 @@ social:
     link: https://www.goodreads.com/andresbiso
 education:
   courses:
+    - course: System Analyst Student - Associate degree (a 2-year course of studies)
+      institution: ORT Argentina
     - course: Information Systems Engineering Student
       institution: UTN FRBA
 email: ""
