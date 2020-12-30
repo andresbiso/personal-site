@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Full-Stack Developer"
-  company = "Hexcta"
+  company = "Hexacta"
   company_url = "https://www.hexacta.com/"
   location = "CABA, Argentina"
   date_start = "2015-08-03"
