@@ -35,7 +35,7 @@ social:
     link: https://www.goodreads.com/andresbiso
 education:
   courses:
-    - course: System Analyst Student - Associate degree (a 2-year course of studies)
+    - course: Systems Analyst Student - Associate degree (a 2-year course of studies)
       institution: ORT Argentina
     - course: Information Systems Engineering Student
       institution: UTN FRBA
