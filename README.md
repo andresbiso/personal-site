@@ -17,30 +17,26 @@
 ---
 
 <p align="center">
-    Personal website hosted on Netlify using Academic.
+    Personal Website
     <br> 
 </p>
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Personal website hosted on Netlify using Academic.
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-[Getting Started Guide](https://sourcethemes.com/academic/docs/install/)
+- Repository for my personal website hosted on Netlify using Academic.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [**Academic**](https://github.com/gcushen/hugo-academic) 
+- [**Academic**](https://github.com/wowchemy/starter-academic) 
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@andresbiso](https://github.com/andresbiso)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Thanks [@gcushen](https://github.com/gcushen/) for hugo-academic.
+- Thanks [@wowchemy](https://github.com/wowchemy) for hugo-academic.
 - Thanks [@zhiiiyang](https://github.com/zhiiiyang) for providing a good template from where to start this website.
 - Thanks [@kylelobo](https://github.com/kylelobo) for [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium).
