@@ -1,47 +1,49 @@
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
-title = "Experiencia"
-subtitle = ""
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experiencia
+subtitle:
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Full-Stack Developer"
-  company = "Hexacta"
-  company_url = "https://www.hexacta.com/"
-  location = "CABA, Argentina"
-  date_start = "2015-08-03"
-  date_end = ""
-  description = """"""
-  
-[[experience]]
-  title = "Técnico de las máquinas de votación electrónica"
-  company = "Randstad"
-  company_url = "https://www.randstad.com/"
-  location = "CABA, Argentina"
-  date_start = "2015-06-01"
-  date_end = "2015-07-01"
-  description = """"""
-
-[[experience]]
-  title = "Técnico de las máquinas de votación electrónica"
-  company = "Cider S.A."
-  company_url = "https://www.cidersa.com.ar/"
-  location = "CABA, Argentina"
-  date_start = "2015-04-01"
-  date_end = "2015-04-01"
-  description = """"""
-
-+++
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Full-Stack Developer
+    company: Hexacta
+    company_url: 'https://www.hexacta.com/'
+    location: CABA, Argentina
+    date_start: '2015-08-03'
+    date_end: ''
+    description:
+  - title: Técnico de máquinas de votación electrónica
+    company: Randstad
+    company_url: 'https://www.randstad.com/'
+    location: CABA, Argentina
+    date_start: '2015-06-01'
+    date_end: '2015-07-01'
+    description:
+  - title: Técnico de máquinas de votación electrónica
+    company: Cider S.A.
+    company_url: 'https://www.cidersa.com.ar/'
+    location: CABA, Argentina
+    date_start: '2015-04-01'
+    date_end: '2015-04-01'
+    description:
+---

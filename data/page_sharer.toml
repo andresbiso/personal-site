@@ -23,7 +23,7 @@
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "linkedin"
@@ -47,7 +47,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "reddit"
