@@ -73,7 +73,7 @@ highlight_name: false
 
 🎓 Desde que era pequeño siempre estuve interesado en las computadoras y su funcionamiento. Mi pasión por la programación comenzó cuando encontré un programa que permitía crear tus propios videojuegos. Esta experiencia generó la chispa que me hizo elegir la orientación en Informática y Medios Digitales durante el secundario. Luego, me anoté a cursar la carrera de Ingeniería en Sistemas de Información y eso me llevó a trabajar como desarrollador de software.
 
-📊 En mis años como desarrollador de software, he trabajado en una gran cantidad de proyectos para distintas compañías. Lo que me gusta de ser desarrollador es que es desafiante y a la vez divertido. De haber trabajado en estos proyectos, he demostrado que tengo una base sólida en Angular y .NET. También pude mejorar mis habilidades de comunicación en inglés y ahora soy capaz de explicar problemas técnicos, en ese idioma, de una manera más fluida. 
+📊 En mis años como desarrollador de software, he trabajado en una gran cantidad de proyectos para distintas compañías. Lo que me gusta de ser desarrollador es que es desafiante y a la vez divertido. De haber trabajado en estos proyectos, he demostrado que tengo una base sólida en Angular y .NET. También pude mejorar mis habilidades de comunicación en inglés y, ahora, soy capaz de explicar problemas técnicos en ese idioma de manera fluida.
 
 <style>
 .video-container { 
