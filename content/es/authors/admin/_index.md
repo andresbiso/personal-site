@@ -27,9 +27,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Estudiante de Terciario en Analista de Sistemas
-    institution: ORT Argentina
-    year:
   - course: Estudiante de Ingeniería en Sistemas de Información
     institution: UTN FRBA
     year:
