@@ -12,8 +12,6 @@ role: Full-Stack Developer from Buenos Aires City, Argentina
 organizations:
 - name: Working at Hexacta
   url: https://www.hexacta.com/
-- name: Studying at ORT Argentina
-  url: https://www.ort.edu.ar/
 - name: Studying at UTN FRBA
   url: https://www.frba.utn.edu.ar/
 
@@ -29,9 +27,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Systems Analyst Student - Associate degree (a 2-year course of studies)
-    institution: ORT Argentina
-    year:
   - course: Information Systems Engineering Student
     institution: UTN FRBA
     year:
