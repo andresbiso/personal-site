@@ -12,8 +12,6 @@ role: Full-Stack Developer de la Ciudad Autónoma de Buenos Aires, Argentina
 organizations:
 - name: Trabajo en Hexacta
   url: https://www.hexacta.com/
-- name: Estudio en ORT Argentina
-  url: https://www.ort.edu.ar/
 - name: Estudio en UTN FRBA
   url: https://www.frba.utn.edu.ar/
 
