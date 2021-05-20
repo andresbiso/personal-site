@@ -23,7 +23,7 @@ es:
   title: 'Andrés Biso'
   es.params:
     description: 'Página Personal de Andrés Biso'
-     copyright_license: 
+    copyright_license: 
       enable: true
       allow_derivatives: true
       share_alike: true
