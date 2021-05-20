@@ -1,0 +1,44 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: 'Andrés Biso'
+  en.params:
+    description: 'Andrés Biso - Personal Website'
+    copyright_license: 
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: false
+      notice: 'This website and its content is licensed under {license}'
+
+# Configure the Spanish version of the site.
+es:
+  languageCode: es
+  contentDir: content/es
+  title: 'Andrés Biso'
+  es.params:
+    description: 'Página Personal de Andrés Biso'
+     copyright_license: 
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: false
+      notice: 'Esta página y todo su contenido se encuentra bajo la licencia {license}'
+
+# Uncomment the lines below to configure your website in a second language.
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
