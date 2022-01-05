@@ -1,6 +1,6 @@
 ---
 # An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # Activate this widget? true/false
