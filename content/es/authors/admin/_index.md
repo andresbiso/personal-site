@@ -12,8 +12,8 @@ role: Full-Stack Developer de la Ciudad Autónoma de Buenos Aires, Argentina
 organizations:
 - name: Trabajo en Hexacta
   url: https://www.hexacta.com/
-- name: Estudio en UTN FRBA
-  url: https://www.frba.utn.edu.ar/
+- name: Estudio en Universidad de Palermo
+  url: https://www.palermo.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Soy un Full-Stack Developer interesado en mejorar sus habilidades en programación
@@ -27,7 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Estudiante de Ingeniería en Sistemas de Información
+  - course: Licenciatura en Informática (En progreso)
+    institution: Universidad de Palermo
+    year:
+  - course: Ingeniería en Sistemas de Información (Sin finalizar)
     institution: UTN FRBA
     year:
 
@@ -66,8 +69,8 @@ email: ""
 highlight_name: false
 ---
 
-🎓 Desde que era pequeño, siempre estuve interesado en las computadoras y su funcionamiento. Mi pasión por la programación comenzó cuando encontré un programa que permitía crear tus propios videojuegos. Esta experiencia generó la chispa que me hizo elegir la orientación en Informática y Medios Digitales durante el secundario. Luego, me anoté a cursar la carrera de Ingeniería en Sistemas de Información y eso me llevó a trabajar como desarrollador de software.
-
+🎓 Desde que era pequeño, siempre estuve interesado en las computadoras y su funcionamiento. Mi pasión por la programación comenzó cuando encontré un programa que permitía crear tus propios videojuegos. Esta experiencia generó la chispa que me hizo elegir la orientación en Informática y Medios Digitales durante el secundario. Luego, me anoté a cursar la carrera de Ingeniería en Sistemas de Información (actualmente me encuentro cursando la carrera Licenciatura en Informática) y eso me llevó a trabajar como desarrollador de software.\
+\
 📊 En mis años como desarrollador de software, he trabajado en una gran cantidad de proyectos para distintas compañías. Lo que me gusta de ser desarrollador es que es desafiante y a la vez divertido. De haber trabajado en estos proyectos, he demostrado que tengo una base sólida en Angular y .NET. También pude mejorar mis habilidades de comunicación en inglés y, ahora, soy capaz de explicar problemas técnicos en ese idioma de manera fluida.
 
 <style>

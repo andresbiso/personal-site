@@ -12,8 +12,8 @@ role: Full-Stack Developer from Buenos Aires City, Argentina
 organizations:
 - name: Working at Hexacta
   url: https://www.hexacta.com/
-- name: Studying at UTN FRBA
-  url: https://www.frba.utn.edu.ar/
+- name: Studying at Universidad de Palermo
+  url: https://www.palermo.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: A Full-Stack Developer interested in improving his programming skills
@@ -27,7 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Information Systems Engineering Student
+  - course: Bachelor's Degree in Computer Science (In Progress)
+    institution: Universidad de Palermo
+    year:
+  - course: Information Systems Engineering (Unfinished)
     institution: UTN FRBA
     year:
 
@@ -66,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career which, later on, led me on becoming a software developer.\
+🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career (I am currently studying a Bachelor's Degree in Computer Science) which, later on, led me on becoming a software developer.\
 \
 📊 During my time as a developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I demonstrated strong abilities programming in Angular and .NET. I was also able to improve my communication skills in english being, nowadays, able of explaining technical issues in a fluent way.
 
