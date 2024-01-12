@@ -28,10 +28,6 @@ feature:
   icon_pack: fab
   name: Angular
 - description:
-  icon: react
-  icon_pack: fab
-  name: React
-- description:
   icon: java
   icon_pack: fab
   name: Java
