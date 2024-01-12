@@ -17,17 +17,21 @@ subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+# - For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons (bootstrap)
 feature:
-- description: 100%
+- description:
   icon: microsoft
   icon_pack: fab
   name: .NET
-- description: 100%
+- description:
   icon: angular
   icon_pack: fab
   name: Angular
-- description: 100%
+- description:
+  icon: react
+  icon_pack: fab
+  name: React
+- description:
   icon: readme
   icon_pack: fab
   name: English
