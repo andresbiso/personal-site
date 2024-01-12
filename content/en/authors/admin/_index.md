@@ -30,6 +30,9 @@ education:
   - course: Bachelor's Degree in Computer Science (In Progress)
     institution: Universidad de Palermo
     year:
+  - course: Systems Analyst Associate's Degree (Completed)
+    institution: Universidad de Palermo
+    year: 2023
   - course: Information Systems Engineering (Unfinished)
     institution: UTN FRBA
     year:
@@ -69,11 +72,13 @@ email: ""
 highlight_name: false
 ---
 
-🗺 I hold dual citizenship for both Argentina (South America) and Portugal (Southern Europe).\
-\
-🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career (I am currently studying a Bachelor's Degree in Computer Science) which, later on, led me on becoming a software developer.\
-\
-📊 During my time as a developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I demonstrated strong abilities programming in Angular and .NET. I was also able to improve my communication skills in english being, nowadays, able of explaining technical issues in a fluent way.
+🗺 I hold dual citizenship for both Argentina (South America) and Portugal (Southern Europe).
+
+👉🏻 If your company or organization would like to add new points of view on how to solve problems, let me be part of that change.
+
+🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career (I am currently studying a Bachelor's Degree in Computer Science) which, later on, led me on becoming a software developer.
+
+📊 During my time as a full-stack software developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I have demonstrated strong abilities programming in multiple technologies like, for example, .NET, Angular, Java and ReactsJs. I was also able to improve my communication skills in english being, nowadays, able of explaining technical issues in a fluent way.
 
 <style>
 .video-container { 
