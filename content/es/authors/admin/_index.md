@@ -30,9 +30,9 @@ education:
   - course: Licenciatura en Informática (En progreso)
     institution: Universidad de Palermo
     year:
-  - course: Analista Universitario en Sistemas (Finalizado)
+  - course: Analista Universitario en Sistemas
     institution: Universidad de Palermo
-    year: 2023
+    year: Julio 2023
   - course: Ingeniería en Sistemas de Información (Sin finalizar)
     institution: UTN FRBA
     year:
