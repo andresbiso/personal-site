@@ -30,7 +30,7 @@ education:
   - course: Bachelor's Degree in Computer Science (In Progress)
     institution: Universidad de Palermo
     year:
-  - course: Systems Analyst Associate's Degree (March 2022 - July 2023))
+  - course: Systems Analyst Associate's Degree (March 2022 - July 2023)
     institution: Universidad de Palermo
     year:
   - course: Information Systems Engineering (Unfinished)
