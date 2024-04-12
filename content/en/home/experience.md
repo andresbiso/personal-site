@@ -26,7 +26,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Developer
-    company: Hexacta SA (GlobalLogic's corporate name in Argentina)
+    company: Hexacta SA (a GlobalLogic company)
     company_url: 'https://www.globallogic.com/latam/'
     location: CABA, Argentina
     date_start: '2015-08-03'
