@@ -6,17 +6,17 @@ title: Andrés Biso
 superuser: true
 
 # Role/position/tagline
-role: Full-Stack Developer de la Ciudad Autónoma de Buenos Aires, Argentina
+role: Software Developer de la Ciudad Autónoma de Buenos Aires, Argentina
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Trabajo en Hexacta
-  url: https://www.hexacta.com/
+- name: Trabajo en Hexacta SA (una empresa de GlobalLogic)
+  url: https://www.globallogic.com/latam/
 - name: Estudio en Universidad de Palermo
   url: https://www.palermo.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy un Full-Stack Developer interesado en mejorar sus habilidades en programación
+bio: Soy un desarrollador de software interesado en mejorar sus habilidades interpersonales y técnicas
 
 # Interests to show in About widget
 interests:
@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: comment
   icon_pack: fab
   link: https://twitter.com/andres_biso
 - icon: github
