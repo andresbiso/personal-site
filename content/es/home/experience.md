@@ -25,9 +25,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Full-Stack Developer
-    company: Hexacta
-    company_url: 'https://www.hexacta.com/'
+  - title: Software Developer
+    company: Hexacta SA (a GlobalLogic company)
+    company_url: 'https://www.globallogic.com/latam/'
     location: CABA, Argentina
     date_start: '2015-08-03'
     date_end: ''
