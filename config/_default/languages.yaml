@@ -7,7 +7,7 @@ en:
   languageCode: en-us
   contentDir: content/en
   title: 'Andrés Biso'
-  en.params:
+  params:
     description: 'Andrés Biso - Personal Website'
     copyright_license: 
       enable: true
@@ -21,7 +21,7 @@ es:
   languageCode: es
   contentDir: content/es
   title: 'Andrés Biso'
-  es.params:
+  params:
     description: 'Página Personal de Andrés Biso'
     copyright_license: 
       enable: true
