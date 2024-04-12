@@ -6,17 +6,17 @@ title: Andrés Biso
 superuser: true
 
 # Role/position/tagline
-role: Full-Stack Developer from Buenos Aires City, Argentina
+role: Software Developer from Buenos Aires City, Argentina
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Working at Hexacta
-  url: https://www.hexacta.com/
+- name: Working at Hexacta (a GlobalLogic company)
+  url: https://www.globallogic.com/latam/
 - name: Studying at Universidad de Palermo
   url: https://www.palermo.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A Full-Stack Developer interested in improving his programming skills
+bio: A software developer interested in improving his interpersonal and technical skills
 
 # Interests to show in About widget
 interests:
@@ -27,13 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor's Degree in Computer Science (In Progress)
+  - course: Licenciatura en Informática (In Progress)
     institution: Universidad de Palermo
     year:
-  - course: Systems Analyst Associate's Degree (March 2022 - July 2023)
+  - course: Analista Universitario en Sistemas (March 2022 - July 2023)
     institution: Universidad de Palermo
     year:
-  - course: Information Systems Engineering (Unfinished)
+  - course: Ingeniería en Sistemas de Información (Unfinished)
     institution: UTN FRBA
     year:
 
@@ -45,8 +45,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
+- icon: comment
+  icon_pack: fas
   link: https://twitter.com/andres_biso
 - icon: github
   icon_pack: fab
