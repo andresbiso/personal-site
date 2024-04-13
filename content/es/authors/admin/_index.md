@@ -71,9 +71,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-🗺 Cuento con doble nacionalidad: Argentina (America del Sur) y Portugal (Europa del Sur).
-
 👉🏻 Si a tu compañía o a tu organización le gustaría añadir un nuevo punto de vista a la resolución de problemas, me gustaría ser parte de ese cambio.
 
 🎓 Desde que era pequeño, siempre estuve interesado en las computadoras y su funcionamiento. Mi pasión por la programación comenzó cuando encontré un programa que permitía crear tus propios videojuegos. Esta experiencia generó la chispa que me hizo elegir la orientación en Informática y Medios Digitales durante el secundario. Luego, me anoté a cursar la carrera de Ingeniería en Sistemas de Información (actualmente me encuentro cursando la carrera Licenciatura en Informática) y eso me llevó a trabajar como desarrollador de software.
