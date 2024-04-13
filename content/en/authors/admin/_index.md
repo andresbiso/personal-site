@@ -71,9 +71,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-🗺 I hold dual citizenship for both Argentina (South America) and Portugal (Southern Europe).
-
 👉🏻 If your company or organization would like to add new points of view on how to solve problems, let me be part of that change.
 
 🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career (I am currently studying a Bachelor's Degree in Computer Science) which, later on, led me on becoming a software developer.
