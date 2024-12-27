@@ -71,11 +71,24 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-👉🏻 Si a tu compañía o a tu organización le gustaría añadir un nuevo punto de vista a la resolución de problemas, me gustaría ser parte de ese cambio.
+👉🏻 Si tu empresa u organización desea incorporar nuevos puntos de vista sobre cómo resolver problemas, me gustaría poder ser parte de ese cambio.
 
-🎓 Desde que era pequeño, siempre estuve interesado en las computadoras y su funcionamiento. Mi pasión por la programación comenzó cuando encontré un programa que permitía crear tus propios videojuegos. Esta experiencia generó la chispa que me hizo elegir la orientación en Informática y Medios Digitales durante el secundario. Luego, me anoté a cursar la carrera de Ingeniería en Sistemas de Información (actualmente me encuentro cursando la carrera Licenciatura en Informática) y eso me llevó a trabajar como desarrollador de software.
+🎓 Desde niño, siempre me han interesado las computadoras y cómo funcionan. Mi pasión por la programación comenzó cuando descubrí un programa que me permitía crear mis propios videojuegos. Esa experiencia encendió la chispa que, más tarde, me llevó a convertirme en desarrollador de software.
 
-📊 En mis años como desarrollador de software, he trabajado en una gran cantidad de proyectos para distintas compañías. Lo que me gusta de ser desarrollador es que es desafiante y a la vez divertido. De haber trabajado en estos proyectos, he demostrado que tengo una base sólida en tecnologías como, por ejemplo, .NET, Angular, Java y React. También pude mejorar mis habilidades de comunicación en inglés y, ahora, soy capaz de explicar problemas técnicos en ese idioma de manera fluida.
+📊 Actualmente, cuento con más de 9 años de experiencia como desarrollador de software. Me considero un desarrollador de software altamente competente.
+Comencé mi carrera profesional a través de un programa de pasantías en 2015. Desde entonces, he sido parte integral de una comunidad vibrante de profesionales comprometidos con la calidad del software, buenas prácticas de desarrollo y aprendizaje continuo.
+
+A lo largo de mi carrera, he tenido el privilegio de colaborar con clientes nacionales e internacionales, incluyendo:
+
+Una multinacional tabacalera estadounidense.
+
+- Una de las principales universidades privadas de Argentina.
+- Una de las firmas de gestión de inversiones más antiguas de Estados Unidos, con sede en Boston.
+- Un banco de inversión multinacional y de servicios financieros de Fortune 500, con sede en Nueva York.
+
+Mi experiencia se centra principalmente en la plataforma .NET y el marco de aplicaciones de Angular. Sin embargo, también he trabajado con clientes que utilizan los ecosistemas de Java y React.
+
+Me enorgullezco de ser proactivo. Me mantengo constantemente informado sobre los últimos avances en la industria del software, explorando cómo estas nuevas aproximaciones pueden integrarse de la mejor manera posible en los proyectos en los que estoy involucrado. Siempre mantengo una mentalidad abierta para recibir nuevas ideas y comentarios, lo que me ha permitido mejorar tanto mis habilidades interpersonales como técnicas.
 
 <style>
 .video-container { 
