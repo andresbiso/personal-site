@@ -80,8 +80,7 @@ Comencé mi carrera profesional a través de un programa de pasantías en 2015. 
 
 A lo largo de mi carrera, he tenido el privilegio de colaborar con clientes nacionales e internacionales, incluyendo:
 
-Una multinacional tabacalera estadounidense.
-
+- Una multinacional tabacalera estadounidense.
 - Una de las principales universidades privadas de Argentina.
 - Una de las firmas de gestión de inversiones más antiguas de Estados Unidos, con sede en Boston.
 - Un banco de inversión multinacional y de servicios financieros de Fortune 500, con sede en Nueva York.
