@@ -73,9 +73,21 @@ highlight_name: false
 ---
 👉🏻 If your company or organization would like to add new points of view on how to solve problems, let me be part of that change.
 
-🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark that made me decide to choose the orientation in Computing and Digital Media during high school. After that I enrolled on the Information Systems Engineering career (I am currently studying a Bachelor's Degree in Computer Science) which, later on, led me on becoming a software developer.
+🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark which, later on, led me on becoming a software developer.
 
-📊 During my time as a software developer, I have worked on a wide range of projects for different companies. I find working as a developer fun and challenging. From working on these projects, I have demonstrated strong abilities programming in multiple technologies like, for example, .NET, Angular, Java and React. I was also able to improve my communication skills in english being, nowadays, able of explaining technical issues in a fluent way.
+📊 I consider myself a proficient Software Developer with over 9 years of experience.
+I embarked on my professional journey through an internship program in 2015. Since then, I’ve remained an integral part of a vibrant community of professionals committed to software quality, good development practices, and continuous learning.
+
+Throughout my career, I’ve had the privilege of collaborating with both national and international clients, including:
+
+- An American Multinational Tobacco Company.
+- One of the Top Private Universities in Argentina.
+- One of the Oldest American Investment Management Firms based in Boston.
+- A Fortune 500 Multinational Investment Bank and Financial Services Company based in New York City.
+
+My expertise primarily lies in the .NET platform and the Angular application framework. However, I’ve also worked with clients who leverage the Java and React ecosystems.
+
+I pride myself on being proactive. I consistently stay informed about the latest advancements in the software industry, exploring how these novel approaches can be seamlessly integrated into the projects I’m involved in. I always maintain an open mindset to welcome new concepts and feedback, which has allowed me to enhance both my interpersonal and technical abilities.
 
 <style>
 .video-container { 
