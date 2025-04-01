@@ -10,7 +10,7 @@ role: Software Developer from Buenos Aires City, Argentina
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Working at Hexacta (a GlobalLogic company)
+- name: Working at GlobalLogic
   url: https://www.globallogic.com/latam/
 - name: Studying at Universidad de Palermo
   url: https://www.palermo.edu/
