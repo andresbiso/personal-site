@@ -10,7 +10,7 @@ role: Software Developer de la Ciudad Autónoma de Buenos Aires, Argentina
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Trabajo en Hexacta SA (una empresa de GlobalLogic)
+- name: Trabajo en GlobalLogic
   url: https://www.globallogic.com/latam/
 - name: Estudio en Universidad de Palermo
   url: https://www.palermo.edu/
