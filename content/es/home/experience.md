@@ -26,11 +26,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Developer
+    company: GlobalLogic
+    company_url: 'https://www.globallogic.com/latam/'
+    location: CABA, Argentina
+    date_start: '2025-04-01'
+    date_end: ''
+    description:
+  - title: Software Developer
     company: Hexacta SA (a GlobalLogic company)
     company_url: 'https://www.globallogic.com/latam/'
     location: CABA, Argentina
     date_start: '2015-08-03'
-    date_end: ''
+    date_end: '2025-03-31'
     description:
   - title: Técnico de máquinas de votación electrónica
     company: Randstad
