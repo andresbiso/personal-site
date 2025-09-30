@@ -12,7 +12,7 @@ role: Software Developer de la Ciudad Autónoma de Buenos Aires, Argentina
 organizations:
   - name: Trabajo en GlobalLogic
     url: https://www.globallogic.com/latam/
-  - name: Estudio en Universidad de Palermo
+  - name: Graduado de la Universidad de Palermo
     url: https://www.palermo.edu/
 
 # Short bio (displayed in user profile at end of posts)
