@@ -10,56 +10,56 @@ role: Software Developer de la Ciudad Autónoma de Buenos Aires, Argentina
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Trabajo en GlobalLogic
-  url: https://www.globallogic.com/latam/
-- name: Estudio en Universidad de Palermo
-  url: https://www.palermo.edu/
+  - name: Trabajo en GlobalLogic
+    url: https://www.globallogic.com/latam/
+  - name: Estudio en Universidad de Palermo
+    url: https://www.palermo.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Soy un desarrollador de software interesado en mejorar sus habilidades interpersonales y técnicas
 
 # Interests to show in About widget
 interests:
-- Reddit
-- Escuchar música
-- Mirar películas y series
+  - Reddit
+  - Escuchar música
+  - Mirar películas y series
 
 # Education to show in About widget
 education:
   courses:
-  - course: Licenciatura en Informática (En progreso)
-    institution: Universidad de Palermo
-    year:
-  - course: Analista Universitario en Sistemas (Marzo 2022 - Julio 2023)
-    institution: Universidad de Palermo
-    year:
-  - course: Ingeniería en Sistemas de Información (Sin finalizar)
-    institution: UTN FRBA
-    year:
+    - course: Licenciatura en Informática (Marzo 2022 - Julio 2025)
+      institution: Universidad de Palermo
+      year:
+    - course: Analista Universitario en Sistemas (Marzo 2022 - Julio 2023)
+      institution: Universidad de Palermo
+      year:
+    - course: Ingeniería en Sistemas de Información (Sin finalizar)
+      institution: UTN FRBA
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
-- icon: comment
-  icon_pack: fas
-  link: https://twitter.com/andres_biso
-- icon: github
-  icon_pack: fab
-  link: https://github.com/andresbiso
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/andresbiso/
-- icon: goodreads
-  icon_pack: fab
-  link: https://www.goodreads.com/andresbiso
+  # - icon: envelope
+  #  icon_pack: fas
+  #  link: '/#contact'
+  - icon: comment
+    icon_pack: fas
+    link: https://twitter.com/andres_biso
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/andresbiso
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/andresbiso/
+  - icon: goodreads
+    icon_pack: fab
+    link: https://www.goodreads.com/andresbiso
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -71,6 +71,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
 👉🏻 Si tu empresa u organización desea incorporar nuevos puntos de vista sobre cómo resolver problemas, me gustaría poder ser parte de ese cambio.
 
 🎓 Desde niño, siempre me han interesado las computadoras y cómo funcionan. Mi pasión por la programación comenzó cuando descubrí un programa que me permitía crear mis propios videojuegos. Esa experiencia encendió la chispa que, más tarde, me llevó a convertirme en desarrollador de software.
