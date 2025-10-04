@@ -76,7 +76,7 @@ highlight_name: false
 
 🎓 Desde niño, siempre me han interesado las computadoras y cómo funcionan. Mi pasión por la programación comenzó cuando descubrí un programa que me permitía crear mis propios videojuegos. Esa experiencia encendió la chispa que, más tarde, me llevó a convertirme en desarrollador de software.
 
-📊 Actualmente, cuento con más de 9 años de experiencia como desarrollador de software. Me considero un desarrollador de software altamente competente.
+📊 Actualmente, cuento con más de 10 años de experiencia como desarrollador de software. Me considero un desarrollador de software altamente competente.
 Comencé mi carrera profesional a través de un programa de pasantías en 2015. Desde entonces, he sido parte integral de una comunidad vibrante de profesionales comprometidos con la calidad del software, buenas prácticas de desarrollo y aprendizaje continuo.
 
 A lo largo de mi carrera, he tenido el privilegio de colaborar con clientes nacionales e internacionales, incluyendo:

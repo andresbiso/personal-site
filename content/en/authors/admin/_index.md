@@ -76,7 +76,7 @@ highlight_name: false
 
 🎓 Since I was a kid, I have always been interested in computers and the way they work. My passion for programming started when I found a program that let me create my own video games. That experience ignited the spark which, later on, led me on becoming a software developer.
 
-📊 I consider myself a proficient Software Developer with over 9 years of experience.
+📊 I consider myself a proficient Software Developer with over 10 years of experience.
 I embarked on my professional journey through an internship program in 2015. Since then, I’ve remained an integral part of a vibrant community of professionals committed to software quality, good development practices, and continuous learning.
 
 Throughout my career, I’ve had the privilege of collaborating with both national and international clients, including:
